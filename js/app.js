@@ -19,7 +19,3 @@ $(document).ready(function(){
 
 
 
-// var red = $("#red").val();
-// var green = $("#green").val();
-// var blue = $("#blue").val();
-// document.body.style.background = "rgb(" + red + "," + green + "," + blue + ")";
